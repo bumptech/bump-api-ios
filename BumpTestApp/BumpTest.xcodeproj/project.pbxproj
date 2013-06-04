@@ -1,0 +1,341 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		D3F8383F14D215F5007F8B64 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8383E14D215F5007F8B64 /* UIKit.framework */; };
+		D3F8384114D215F5007F8B64 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8384014D215F5007F8B64 /* Foundation.framework */; };
+		D3F8384314D215F5007F8B64 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8384214D215F5007F8B64 /* CoreGraphics.framework */; };
+		D3F8384914D215F5007F8B64 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D3F8384714D215F5007F8B64 /* InfoPlist.strings */; };
+		D3F8384B14D215F5007F8B64 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = D3F8384A14D215F5007F8B64 /* main.m */; };
+		D3F8384F14D215F5007F8B64 /* BumpAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = D3F8384E14D215F5007F8B64 /* BumpAppDelegate.m */; };
+		D3F8385214D215F5007F8B64 /* BumpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D3F8385114D215F5007F8B64 /* BumpViewController.m */; };
+		D3F8385514D215F5007F8B64 /* BumpViewController_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3F8385314D215F5007F8B64 /* BumpViewController_iPhone.xib */; };
+		D3F8385814D215F5007F8B64 /* BumpViewController_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = D3F8385614D215F5007F8B64 /* BumpViewController_iPad.xib */; };
+		D3F8386714D21787007F8B64 /* libBump.a in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8386614D21787007F8B64 /* libBump.a */; };
+		D3F8386D14D2186A007F8B64 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8386C14D2186A007F8B64 /* AudioToolbox.framework */; };
+		D3F8386F14D2187A007F8B64 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8386E14D2187A007F8B64 /* CoreLocation.framework */; };
+		D3F8387114D2188A007F8B64 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D3F8387014D2188A007F8B64 /* CFNetwork.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		D3F8383A14D215F5007F8B64 /* BumpTest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BumpTest.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		D3F8383E14D215F5007F8B64 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		D3F8384014D215F5007F8B64 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		D3F8384214D215F5007F8B64 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		D3F8384614D215F5007F8B64 /* BumpTest-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "BumpTest-Info.plist"; sourceTree = "<group>"; };
+		D3F8384814D215F5007F8B64 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		D3F8384A14D215F5007F8B64 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		D3F8384C14D215F5007F8B64 /* BumpTest-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "BumpTest-Prefix.pch"; sourceTree = "<group>"; };
+		D3F8384D14D215F5007F8B64 /* BumpAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BumpAppDelegate.h; sourceTree = "<group>"; };
+		D3F8384E14D215F5007F8B64 /* BumpAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BumpAppDelegate.m; sourceTree = "<group>"; };
+		D3F8385014D215F5007F8B64 /* BumpViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = BumpViewController.h; sourceTree = "<group>"; };
+		D3F8385114D215F5007F8B64 /* BumpViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = BumpViewController.m; sourceTree = "<group>"; };
+		D3F8385414D215F5007F8B64 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BumpViewController_iPhone.xib; sourceTree = "<group>"; };
+		D3F8385714D215F5007F8B64 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/BumpViewController_iPad.xib; sourceTree = "<group>"; };
+		D3F8386514D21787007F8B64 /* BumpClient.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = BumpClient.h; path = ../../libBump/BumpClient.h; sourceTree = "<group>"; };
+		D3F8386614D21787007F8B64 /* libBump.a */ = {isa = PBXFileReference; lastKnownFileType = archive.ar; name = libBump.a; path = ../../libBump/libBump.a; sourceTree = "<group>"; };
+		D3F8386C14D2186A007F8B64 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		D3F8386E14D2187A007F8B64 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		D3F8387014D2188A007F8B64 /* CFNetwork.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D3F8383714D215F5007F8B64 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3F8387114D2188A007F8B64 /* CFNetwork.framework in Frameworks */,
+				D3F8386F14D2187A007F8B64 /* CoreLocation.framework in Frameworks */,
+				D3F8386D14D2186A007F8B64 /* AudioToolbox.framework in Frameworks */,
+				D3F8383F14D215F5007F8B64 /* UIKit.framework in Frameworks */,
+				D3F8384114D215F5007F8B64 /* Foundation.framework in Frameworks */,
+				D3F8384314D215F5007F8B64 /* CoreGraphics.framework in Frameworks */,
+				D3F8386714D21787007F8B64 /* libBump.a in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		D3F8382F14D215F5007F8B64 = {
+			isa = PBXGroup;
+			children = (
+				D3F8384414D215F5007F8B64 /* BumpTest */,
+				D3F8383D14D215F5007F8B64 /* Frameworks */,
+				D3F8383B14D215F5007F8B64 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		D3F8383B14D215F5007F8B64 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D3F8383A14D215F5007F8B64 /* BumpTest.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		D3F8383D14D215F5007F8B64 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				D3F8387014D2188A007F8B64 /* CFNetwork.framework */,
+				D3F8386E14D2187A007F8B64 /* CoreLocation.framework */,
+				D3F8386C14D2186A007F8B64 /* AudioToolbox.framework */,
+				D3F8383E14D215F5007F8B64 /* UIKit.framework */,
+				D3F8384014D215F5007F8B64 /* Foundation.framework */,
+				D3F8384214D215F5007F8B64 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		D3F8384414D215F5007F8B64 /* BumpTest */ = {
+			isa = PBXGroup;
+			children = (
+				D3F8386414D21779007F8B64 /* libBump */,
+				D3F8384D14D215F5007F8B64 /* BumpAppDelegate.h */,
+				D3F8384E14D215F5007F8B64 /* BumpAppDelegate.m */,
+				D3F8385014D215F5007F8B64 /* BumpViewController.h */,
+				D3F8385114D215F5007F8B64 /* BumpViewController.m */,
+				D3F8385314D215F5007F8B64 /* BumpViewController_iPhone.xib */,
+				D3F8385614D215F5007F8B64 /* BumpViewController_iPad.xib */,
+				D3F8384514D215F5007F8B64 /* Supporting Files */,
+			);
+			path = BumpTest;
+			sourceTree = "<group>";
+		};
+		D3F8384514D215F5007F8B64 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				D3F8384614D215F5007F8B64 /* BumpTest-Info.plist */,
+				D3F8384714D215F5007F8B64 /* InfoPlist.strings */,
+				D3F8384A14D215F5007F8B64 /* main.m */,
+				D3F8384C14D215F5007F8B64 /* BumpTest-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		D3F8386414D21779007F8B64 /* libBump */ = {
+			isa = PBXGroup;
+			children = (
+				D3F8386514D21787007F8B64 /* BumpClient.h */,
+				D3F8386614D21787007F8B64 /* libBump.a */,
+			);
+			name = libBump;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		D3F8383914D215F5007F8B64 /* BumpTest */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = D3F8385B14D215F5007F8B64 /* Build configuration list for PBXNativeTarget "BumpTest" */;
+			buildPhases = (
+				D3F8383614D215F5007F8B64 /* Sources */,
+				D3F8383714D215F5007F8B64 /* Frameworks */,
+				D3F8383814D215F5007F8B64 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = BumpTest;
+			productName = BumpTest;
+			productReference = D3F8383A14D215F5007F8B64 /* BumpTest.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		D3F8383114D215F5007F8B64 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0420;
+				ORGANIZATIONNAME = "Bump Technologies, Inc.";
+			};
+			buildConfigurationList = D3F8383414D215F5007F8B64 /* Build configuration list for PBXProject "BumpTest" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = D3F8382F14D215F5007F8B64;
+			productRefGroup = D3F8383B14D215F5007F8B64 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D3F8383914D215F5007F8B64 /* BumpTest */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		D3F8383814D215F5007F8B64 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3F8384914D215F5007F8B64 /* InfoPlist.strings in Resources */,
+				D3F8385514D215F5007F8B64 /* BumpViewController_iPhone.xib in Resources */,
+				D3F8385814D215F5007F8B64 /* BumpViewController_iPad.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D3F8383614D215F5007F8B64 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				D3F8384B14D215F5007F8B64 /* main.m in Sources */,
+				D3F8384F14D215F5007F8B64 /* BumpAppDelegate.m in Sources */,
+				D3F8385214D215F5007F8B64 /* BumpViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		D3F8384714D215F5007F8B64 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D3F8384814D215F5007F8B64 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		D3F8385314D215F5007F8B64 /* BumpViewController_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D3F8385414D215F5007F8B64 /* en */,
+			);
+			name = BumpViewController_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		D3F8385614D215F5007F8B64 /* BumpViewController_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				D3F8385714D215F5007F8B64 /* en */,
+			);
+			name = BumpViewController_iPad.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		D3F8385914D215F5007F8B64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		D3F8385A14D215F5007F8B64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvm.clang.1_0;
+				GCC_WARN_ABOUT_MISSING_PROTOTYPES = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.0;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		D3F8385C14D215F5007F8B64 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/..\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BumpTest/BumpTest-Prefix.pch";
+				INFOPLIST_FILE = "BumpTest/BumpTest-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../Bump\"",
+					"\"$(SRCROOT)/../libBump\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = armv7;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		D3F8385D14D215F5007F8B64 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/..\"",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "BumpTest/BumpTest-Prefix.pch";
+				INFOPLIST_FILE = "BumpTest/BumpTest-Info.plist";
+				LIBRARY_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)/../Bump\"",
+					"\"$(SRCROOT)/../libBump\"",
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALID_ARCHS = armv7;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		D3F8383414D215F5007F8B64 /* Build configuration list for PBXProject "BumpTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D3F8385914D215F5007F8B64 /* Debug */,
+				D3F8385A14D215F5007F8B64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		D3F8385B14D215F5007F8B64 /* Build configuration list for PBXNativeTarget "BumpTest" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				D3F8385C14D215F5007F8B64 /* Debug */,
+				D3F8385D14D215F5007F8B64 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = D3F8383114D215F5007F8B64 /* Project object */;
+}

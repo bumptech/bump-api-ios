@@ -1,0 +1,97 @@
+http://bu.mp/licagr_internaluse
+
+INTERNAL USE SDK LICENSE AGREEMENT
+
+Please read this Internal Use SDK License Agreement (“Agreement”) carefully because it represents your legally binding agreement with Bump Technologies, Inc. (“we”, “us” or “Bump”) in connection with your use of the Service, the Software and the Evaluation Guide (as defined below) with your Application. You will be referred to herein as “you” or “Licensee.”
+
+BACKGROUND
+      Bump has developed and is developing certain software products for mobile devices and a hosted service infrastructure for the software.
+
+      You wish to obtain from Bump a license to (i) the Software to conduct a technical review of the Software, (ii) incorporate the Software into your software applications, (iii) use Bump's application programming interfaces (“APIs”) and the Service (as defined below) in connection with the Bump Software to develop one or more Applications. This license does not allow you to distribute any Application you create, which is covered by our license located here.
+
+      You understand that if you cannot comply with restrictions contained in this Agreement, you should not accept this Agreement. If at any time in the future you do not agree with all the terms and conditions of this Agreement (including any revisions thereto), you must immediately discontinue your use of the Software and Service. If you would like to develop an Application, but cannot comply with these restrictions, you should contact bump at licensing@bumptechnologies.com
+
+      By clicking “I Agree” on this page, you are agreeing that (i) you are over 18 years of age, (ii) you are authorized to enter into this Agreement and (ii) that you agree to all of the terms and conditions of this Agreement and your rights and obligations hereunder.
+
+AGREEMENT:
+1.	Definitions.
+
+      1.1.	“Application” shall mean any software application which includes (i) any portion of Bump's Software and (ii) Licensee's software code and which adds significant functionality to the Software and Service.
+
+      1.2.	 “Evaluation Guide” means the documentation regarding the Software which Bump will provide to you hereunder.
+
+      1.3.	 “Intellectual Property Rights” means any trade secrets, patents, copyrights, trademarks, know-how (and any rights related to the foregoing items), mask work rights, contract and licensing rights, goodwill, moral rights and similar rights of any type under the laws of any governmental authority, domestic or foreign as they may exist and/or hereafter come into existence, including all applications and registrations relating to any of the foregoing and all renewals and extensions thereof (including, without limitation, any continuations, continuations-in-part, divisionals, reissues, substitutions and reexaminations).
+
+      1.4.	“Service” means the Bump service provided to complete matching of devices and exchange of information.
+
+      1.5.	“Software” means the Bump SDK, test libraries and APIs. All Software shall mean the object (executable binary) code version of the Software only, and shall include all modifications thereto which Bump makes available to you hereunder.
+
+2.	Allocation of Responsibilities.
+
+      2.1.	Delivery. Bump will deliver the Software and Evaluation Guide by electronic transmission or providing Licensee with a secure server from which Licensee may download the Software.
+
+      2.2.	Support; Modifications. You shall have sole responsibility for testing and quality assuring the Application to ensure the Software works properly. We may provide you with support for the Software and/or updates or modifications to the Software or Service from time to time, but are not obligated to do so. If we choose to provide you support, such decision may be made in our sole discretion. Bump will support each version of the Software for at least 180 days after the release of an updated version, but after such time, may discontinue functions or features used by prior versions.
+
+      2.3.	No Other Obligation. Nothing contained in this Agreement shall be construed as obligating either party to enter into any other agreement for the Software or Service.
+
+3.	License Grants; Restrictions.
+
+      3.1.	License Grant. Subject to your compliance with the terms of this Agreement, including those contained in Sections 3.3 and 3.4 below, Bump hereby grants to you a nonexclusive, nontransferable, royalty-free and fully-paid-up license, without rights to sublicense, to use the Software, Service and Evaluation Guide for the term of this Agreement solely for internal development purposes.
+
+      3.2.	General Restrictions. You agree that you and your employees shall not, directly or indirectly, (a) sell, lease, assign, sublicense or otherwise transfer, (b) disclose, divulge or otherwise make available to any third party, (c) use except as authorized by this Agreement, (d) decompile, disassemble or otherwise analyze for reverse engineering purposes, or (e) modify or change, the Software or Service in any manner. You agree that you shall not use the Software for any illegal, unauthorized or otherwise improper purpose or violate the Bump Terms of Service or Privacy Policy, or create an Application which does or allows users to do any of the foregoing. You may not distribute or allow access to the APIs, Evaluation Guide, or Software (except, in the case of the Software, as part of an Application), and may not provide any information regarding the Service to any third party.
+
+      3.3.	Application Restriction. The licenses granted herein are subject to the following additional restriction: if you modify the user interface of the Bump Software, you must do so in a manner which complies with the Bump UI guidelines, as may be amended from time to time. A copy of the current Bump UI Guidelines are located here.
+
+      3.4.	No Open Source Modifications. You may not make any modifications to the Software (such as improper combination with GPL software) that would cause the Software, in whole or in part, to become subject to any of the terms of an Open Source License (as defined below). The licenses contained herein are conditioned upon, and you represent and warrant to Bump that you shall not (i) create any derivative works of the Software (including, without limitation, any Applications) in any manner that would do this or (ii) distribute any derivative works of the Software in any manner that would cause the Software or any component of the Software to become the subject of any of the terms of an Open Source License. An “Open Source License” is any license that requires as a condition of use, modification and/or distribution of software subject to that license, that such software or other software combined and/or distributed with such software to be (x) disclosed or distributed in source code form; (y) licensed for the purposes of making derivative works; or (z) redistributable at no charge.
+
+      3.5.	Trademark License. We grant to you a limited, nonexclusive, royalty-free, worldwide license to use, reproduce, publicly perform, distribute and display the Bump trademarks and logos (“Bump Trademarks”) only to the extent necessary to fulfill your obligations under this Agreement. You will comply with any usage guidelines we may publish from time to time, and upon our request, shall provide us with samples of your usage of the Bump Trademarks. A copy of the current Bump Trademark Guidelines is located at http://bu.mp/apitrademark. You agree not to challenge Bump's ownership of the Bump Trademarks or use or adopt any trademarks that might be confusingly similar to the Bump Trademarks.
+
+      3.6.	No Other Rights. Bump reserves all rights in the Software, Evaluation Guide and Service which are not expressly granted in this Agreement.
+
+4.	Fees. Provided that you comply with the restrictions contained in this Agreement, Bump will not charge any fees for use of the Software or Service. You understand that if you violate any of these terms, you may be subject to penalties and fees in relation to your breach of this Agreement. You will be solely responsible for all costs which you incur in developing the Application.
+
+5.	Ownership Rights; Certifications.
+
+      5.1.	Ownership of Software; Application. (a) Except as expressly set forth herein, Bump or its licensors shall own all right, title and interest in and to the Software, Service, all data submitted to the Service relating to the connection request and confirmation (session data, including transaction description and date, time and location of the match), the Evaluation Guide and Bump Trademarks. (b) As between you and Bump, you will retain all right, title and interest in and to the other elements of the Application.
+
+      5.2.	Feedback. You have no obligation to provide any feedback or suggestions on improvements of the Software or Service. However, if you do provide any feedback to us, you hereby agree that we may use such feedback as we see fit, without compensation to you, and that you shall not make any claim of ownership in any improvements to the Software or Service created based on your feedback. From time to time upon Bump's written request, you and/or your personnel shall confirm such assignment by execution and delivery of such documents as Bump may reasonably request. All feedback shall be deemed to be Bump's Confidential Information.
+
+      5.3.	Government Approvals; Compliance with Laws; Certifications. The Software is made available in the United States and subject to export control laws. You may not download the Software to another country without complying with US export control laws. You shall be solely responsible for clearing the Software for export, if necessary and obtaining all necessary government approvals, consents, licenses or permits to enable you to download and use the Software or any Application. You will bear all costs associated with obtaining such government approvals, consents, licenses or permits, customs charges and duty fees, if any. You agree to comply with all government laws and regulations applicable to you.
+
+6.	Disclaimer. ALL SOFTWARE, THE SERVICE, THE EVALUATION GUIDE AND ANY OTHER MATERIALS PROVIDED HEREUNDER ARE PROVIDED “AS IS”, AND BUMP SPECIFICALLY DISCLAIMS ALL WARRANTIES OF MERCHANTABILITY, NONINFRINGEMENT, AND FITNESS FOR A PARTICULAR PURPOSE IN CONNECTION THEREWITH. SOME OF THE SOFTWARE OR PORTIONS OF THE SERVICE MAY BE EXPERIMENTAL OR UNTESTED AND BUMP DOES NOT REPRESENT THAT THE SOFTWARE OR SERVICE WILL BE FREE FROM ERRORS OR INTERRUPTIONS.
+
+7.	Term and Termination. This Agreement shall become effective on the Effective Date and shall continue in effect unless terminated earlier in accordance with this Section. Bump may suspend or terminate this Agreement immediately for your breach of this Agreement, including the restrictions contained in Section 3, or violation of Bump's Privacy Policy. You may terminate this Agreement without cause upon written notice to Bump. You acknowledge and agree that Bump may at any time in its sole discretion, without liability and with or without cause terminate this Agreement and/or terminate, restrict, block, disable or suspend your access to the Service or any portion or feature. Upon termination of this Agreement, all licenses to use the Software, Service and/or Applications shall immediately cease. Sections 1, 3.2, 3.3, 3.4, 5, 6, 7, 8 and 9 shall survive any termination or expiration of this Agreement.
+
+8.	Limitation of Liability. EXCEPT IN THE EVENT OF ANY BREACH OF SECTION 3, NEITHER PARTY SHALL BE LIABLE TO THE OTHER PARTY FOR LOST PROFITS OR ANY CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR INDIRECT DAMAGES OF SUCH OTHER PARTY, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, ARISING OUT OF OR IN CONNECTION WITH THIS AGREEMENT OR THE USE, RESULTS OF USE, OR INABILITY TO USE, THE BUMP SOFTWARE OR ANY PRODUCT. THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY. IN NO EVENT WILL BUMP'S LIABILITY ARISING HEREUNDER EXCEED ONE HUNDRED DOLLARS ($100). LICENSEE ACKNOWLEDGES AND AGREES THAT THE AMOUNTS PAYABLE HEREUNDER BY LICENSEE ARE BASED IN PART UPON THESE LIMITATIONS, AND FURTHER AGREES THAT THESE LIMITATIONS SHALL APPLY NOTWITHSTANDING ANY FAILURE OF ESSENTIAL PURPOSE OF ANY LIMITED REMEDY.
+
+9.	Indemnification
+
+      Licensee agrees, at its own expense, to defend or at its option to settle any claim or action brought against Bump, its directors, officers, agents and licensors on the issue of infringement of any copyright, trade secret, or patent by any Application (except, in each case, for any claim brought solely as a result of Licensee's authorized use of the Software or Service), and to indemnify Bump against any and all damages and costs, including legal fees, that a court finally awards against Bump under any such claim or action; provided that Bump provides Licensee with (1) prompt written notice of such claim or action, (2) sole control and authority over the defense or settlement of such claim or action and (3) proper and full information and reasonable assistance to defend and/or settle any such claim or action.
+
+10.	General.
+
+      10.1.	Governing Law. This Agreement shall be governed by and interpreted in accordance with the laws of the State of California, without reference to conflicts of laws' provisions.
+
+      10.2.	Partial Invalidity. If any provision in this Agreement shall be found or be held to be invalid or unenforceable in any jurisdiction in which this Agreement is being performed, then said provision shall be severed, solely in such jurisdiction, from the remainder of this Agreement, which shall remain in full force and effect.
+
+      10.3.	Relationship of the Parties. Nothing contained in this Agreement is intended nor is it to be construed so as to conÂ¬stitute Bump and Licensee as partners or joint ventures with respect to this Agreement. Employees of any party remain employees of that party and shall at no time be considered agents of or to be obligated to render a duty to the other party.
+
+      10.4.	Waiver. The failure of any party to enforce at any time any of the provisions of this Agreement shall in no way be construed to be a present or future waiver of such provisions, nor in any way affect the right of any party to enforce each and every such provision thereafter. The express waiver by any party of any provision, condition or requireÂ¬ment of this Agreement shall not constitute a waiver of any future obligation to comply with such provision, condition or requirement.
+
+      10.5.	Assignment. You must notify Bump of any assignment of this Agreement to any other entity. Bump shall have the right to assign its rights, obligations and privileges hereunder to a merger partner, successor in business or acquirer of all or substantially all of Bump's business or assets without obtaining your consent. The terms and conditions of this Agreement shall inure to the benefit of and be binding upon the respective permitted successors and assigns of the parties.
+
+      10.6.	Notices. Any notice required or permitted to be given by any party under this Agreement shall be in writing, and shall be personally delivered or sent by certified or registered letter, return receipt requested or by confirmed telecopy, to the receiving party at its address first set forth above, or such new address as may from time to time be supplied hereunder by the receiving party. Notices will be deemed effective upon receipt. You may send notice to Bump at: 156 E Dana Street, Mountain View, California 94041. We may send notice to you by email to the account we have on file for you when signing up to receive the Software, which you may update from time to time in accordance with our website Terms of Use.
+
+      10.7.	Entire Agreement. The terms and conditions contained in this Agreement constitute the entire agreement between the parties and supersede all previous agreements and understandings, whether oral or written, between the parties hereto with respect to the subject matter hereof. No alteration, amendment, waiver, cancellation or any other change in any term or condition of this Agreement shall be valid or binding on any party unless the same shall have been mutually assented to in writing by both parties.
+
+      10.8.	Jurisdiction. The parties hereby consent to the exclusive jurisdiction and venue of the state and federal courts of San Francisco, California.
+
+      10.9.	Arbitration. Should any dispute occur between Bump and Licensee arising out of or related to the Agreement or their rights and responsibilities to the other, the matter shall be settled and determined by arbitration under the current rules of the American Arbitration Association to be held in Santa Clara County, California. The arbitrator selected shall be knowledgeable in the field of business that Bump is engaged in. The decision of the arbitrator shall be final and binding and the award so rendered may be entered in any court having a jurisdiction in the State of California. Either party may institute arbitration proceedings within one year of the claimed breach having occurred. In any action to enforce either party's rights hereunder, the prevailing party shall be entitled to reasonable attorneys fees.
+
+      10.10.	Advice of Legal Counsel. You acknowledge that, in executing this Agreement, you have had the opportunity to seek advice regarding its legal rights from legal counsel and that the person signing on its behalf has read and understood all of the terms and provisions of this Agreement.
+
+      10.11.	English Language. This Agreement is in the English language only, which language shall be controlling in all respects. No translation, if any, of this Agreement into any other language shall be of any force or effect in the interpretation of this Agreement or in determination of the interests of either party hereto. Furthermore, the parties agree that all correspondence, notices, orders, claims, suits and other communication between the parties hereto shall be written or conducted in English.
+
+      10.12.	Foreign Corrupt Practices Act. In conformance with the United States Foreign Corrupt Practices Act, Licensee shall not directly or indirectly make an offer, payment, promise to pay, or authorize payment, or offer a gift, promise to give, or authorize the giving of anything of value for the purpose of influencing an act or decision of an official of any government (including a decision not to act) or inducing such a person to use his influence to affect any such governmental act or decision in order to assist Licensee in obtaining, retaining or directing any such business.
+
+[End of Agreement]
